@@ -1,0 +1,35 @@
+/* FacultySearch.css */
+.facultySearchContainer {
+    background: #FFD099;
+    margin: 0rem 22rem;
+    padding: 4rem 16rem 3rem 18rem;
+    border-radius: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  
+  .inputDiv {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  input {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+  }
+  
+  button {
+    background-color: rgb(217, 110, 10);
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  .resultsDiv {
+    margin-top: 3rem;
+    border-bottom: 1px solid black;
+    font-size: 1.2rem;
+}
+  
+  

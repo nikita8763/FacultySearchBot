@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Rajdeep Chatterjee",
+      "email":"rajdeepfcs@kiit.ac.in",
+      "department": "Computer Science",
+      "position": "Associate Professor"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Mathematics",
+      "position": "Associate Professor"
+    },
+    {
+        "id": 3,
+        "name": "John Smith",
+        "department": "Mathematics",
+        "position": "Associate Professor"
+      }
+  ]
+  
