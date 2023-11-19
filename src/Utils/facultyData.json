@@ -8,15 +8,206 @@
     },
     {
       "id": 2,
-      "name": "Jane Smith",
-      "department": "Mathematics",
+      "name": "Abhaya Kumar Sahoo",
+      "email":"abhaya.sahoofcs@kiit.ac.in",
+      "department": "Computer Science",
       "position": "Associate Professor"
     },
     {
-        "id": 3,
-        "name": "John Smith",
-        "department": "Mathematics",
-        "position": "Associate Professor"
-      }
-  ]
+      "id": 3,
+      "name": "Abhishek Ray",
+      "email":"arayfcs@kiit.ac.in",
+      "department": "Computer Science",
+      "position": "Associate Professor & Associate Dean (T&P)"
+    },
+    {
+      "id": 4,
+      "name": "Amulya Ratna Swain",
+      "email":"amulyafcs@kiit.ac.in",
+      "department": "Computer Science",
+      "position": "Associate Professor"
+    },
+    {
+      "id": 5,
+      "name": "Bindu Agarwalla",
+      "email":"bindu.agarwalfcs@kiit.ac.in",
+      "department": "Computer Science",
+      "position": "Assisstant Professor"
+    },
+    {
+      "id": 6,
+      "name": "Banishree Misra",
+      "email":"bmisrafel@kiit.ac.in",
+      "department": "Electrical",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 7,
+      "name": "Deepak Kumar Gupta",
+      "email":"Deepak.guptafel@kiit.ac.in",
+      "department": "Electrical",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 8,
+      "name": "Chitralekha Jena",
+      "email":"chitralekha.jenafel@kiit.ac.in",
+      "department": "Electrical",
+      "position": "Assistant Professor-II"
+    },
+    {
+      "id": 9,
+      "name": "Subhra Debdas",
+      "email":"subhra.debdasfel@kiit.ac.in",
+      "department": "Electrical",
+      "position": "Faculty"
+    },
+    {
+      "id": 10,
+      "name": "Sarita Samal",
+      "email":"ssamalfel@kiit.ac.in",
+      "department": "Electrical",
+      "position": "Assistant Professor- II"
+    },
+    {
+      "id": 11,
+      "name": "Amit Kumar Das",
+      "email":"amit.dasfce@kiit.ac.in",
+      "department": "Civil",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 12,
+      "name": "Kalpana Sahoo",
+      "email":"kalpana.sahoofce@kiit.ac.in",
+      "department": "Civil",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 13,
+      "name": "Prasanna Kumar Acharya",
+      "email":"prasanna.acharyafce@kiit.ac.in",
+      "department": "Civil",
+      "position": "Associate Professor"
+    },
+    {
+      "id": 14,
+      "name": "Sanjib Moulick",
+      "email":"smoulickfce@kiit.ac.in",
+      "department": "Civil",
+      "position": "Dean"
+    },
+    {
+      "id": 15,
+      "name": "Sunny Jaiswal",
+      "email":"sunny.jaiswalfce@kiit.ac.in",
+      "department": "Civil",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 16,
+      "name": "Abhik Gorai",
+      "email":"abhik.goraifet@kiit.ac.in",
+      "department": "Electronics",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 17,
+      "name": "Amitkumar V. Jha",
+      "email":"amit.jhafet@kiit.ac.in",
+      "department": "Electronics",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 18,
+      "name": "Anupama Senapati",
+      "email":"anupamafet@kiit.ac.in",
+      "department": "Electronics",
+      "position": "Assistant Professor"
+    },
+    {
+      "id": 19,
+      "name": "Deepak Kumar Rout",
+      "email":"deepak.routfet@kiit.ac.in",
+      "department": "Electronics",
+      "position": "Assistant Professor II"
+    },
+    {
+      "id": 20,
+      "name": "Jibendu Sekhar Roy",
+      "email":"drjsroy@kiit.ac.in",
+      "department": "Electronics",
+      "position": "Professor (Full)"
+    },
+    {
+      "id": 21,
+      "name": "Ajay Kumar Behera",
+      "email":"ajaybeherafme@kiit.ac.in",
+      "department": "Mechanical",
+      "position": "Professor"
+    },
+    {
+      "id": 22,
+      "name": "Akshaya Kumar Rout",
+      "email":"akroutfme@kiit.ac.in",
+      "department": "Mechanical",
+      "position": "Professor"
+    },
+    {
+      "id": 23,
+      "name": " Ambesh Kumar ",
+      "email":"ambesh.kumarfme@kiit.ac.in",
+      "department": "Mechanical",
+      "position": "Professor"
+    },
+    {
+      "id": 24,
+      "name": "Archana Ghatak ",
+      "email":"aghatak@kiitbiotech.ac.in",
+      "department": "Biotechnology",
+      "position": "Professor"
+    },
+    {
+      "id": 25,
+      "name": "Bhawna Gupta ",
+      "email":"bhawna.gupta@kiitbiotech.ac.in",
+      "department": "Biotechnology",
+      "position": "Professor"
+    },
+    {
+      "id": 26,
+      "name": "Birendra Kumar Bindhani ",
+      "email":"bkbindhani@kiitbiotech.ac.in",
+      "department": "Biotechnology",
+      "position": "Associate Professor"
+    },
+    {
+      "id": 27,
+      "name": " Biswadeep Das",
+      "email":"biswadeep.das@kiitbiotech.ac.in",
+      "department": "Biotechnology",
+      "position": "Professor"
+    },
+    {
+      "id": 28,
+      "name": "Chanakya Nath Kundu" ,
+       "email": " cnkundu@kiitbiotech.ac.in",
+      "department": "Biotechnology",
+      "position": "Professor and Research Dean "
+    },
+    {
+      "id": 29,
+      "name": "Atal Bihari Harichandan",
+      "email":"atal.harichandanfme@kiit.ac.in",
+      "department": "Mechanical",
+      "position": "Professor"
+    },
+    {
+      "id": 30,
+      "name": "B. Surekha",
+      "email":"surekhafme@kiit.ac.in",
+      "department": "Mechanical",
+      "position": "Professor"
+    }
+]
   
